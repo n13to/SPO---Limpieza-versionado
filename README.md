@@ -1,4 +1,4 @@
-# SPO---Limpieza-versionado
+# SPO - Limpieza-versionado
 
 # Limpieza de Versiones en SharePoint Online con PnP PowerShell
 

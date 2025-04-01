@@ -1,4 +1,4 @@
-# 🚀 Limpieza de Versiones en SharePoint Online con PnP PowerShell 🧹
+# 🚀 Limpieza de Versiones en SharePoint Online con PnP PowerShell 
 
 ```markdown
 Este script en PowerShell permite eliminar versiones antiguas de archivos en una biblioteca o carpeta específica de SharePoint Online.  Existen dos variantes del script que se diferencian únicamente en la función utilizada para calcular la antigüedad de las versiones a eliminar: `AddMonths` (para filtrar por meses) y `AddDays` (para filtrar por días). 
